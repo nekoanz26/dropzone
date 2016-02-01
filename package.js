@@ -1,6 +1,6 @@
 Package.describe({
     name: 'nekoanz:dropzone',
-    version: '0.0.1',
+    version: '0.0.4',
     // Brief, one-line summary of the package.
     summary: 'MeteorJS wrapper for DropzoneJS',
     // URL to the Git repository containing the source code for this package.
